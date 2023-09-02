@@ -8,7 +8,6 @@ I like to tinker with stuffs and reimagine current solutions. **ptobechi/ptobech
 - 🌱 My areas of interest are Blockchain, System programming, Web Development ...
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about PHP, Javascript & Chess after that come let's talk soccer
-- 📫 How to reach me:<a href="mailto:ptobechi@outlook.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 - ⚡ Fun fact: ^_^
 
 <details>
@@ -22,6 +21,21 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptobechi&theme=dracula)
 
 </details>
+
+## Contact Me:
+
+#### Contact Information:
+<a href="https://www.linkedin.com/in/to/tobechi-paschal-1308a8192">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+
+<a href="mailto:ptobechi@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=outlook&logoColor=white">
+</a>
+<a href="https://twitter.com/ptobechii">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=outlook&logoColor=white">
+</a>
+
 
 ## Skills:
 
