@@ -24,7 +24,6 @@ My Github Stats
 
 ## Contact Me:
 
-#### Contact Information:
 <a href="https://www.linkedin.com/in/to/tobechi-paschal-1308a8192">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -33,7 +32,7 @@ My Github Stats
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=outlook&logoColor=white">
 </a>
 <a href="https://twitter.com/ptobechii">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 
 
