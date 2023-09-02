@@ -29,7 +29,7 @@ My Github Stats
 </a>
 
 <a href="mailto:ptobechi@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=hotmail&logoColor=white">
 </a>
 <a href="https://twitter.com/ptobechii">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
