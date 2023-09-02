@@ -8,7 +8,10 @@ I like to tinker with stuffs and reimagine current solutions. **ptobechi/ptobech
 - 🌱 My areas of interest are Blockchain, System programming, Web Development ...
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about PHP, Javascript & Chess after that come let's talk soccer
-- 📫 How to reach me: <a href="mailto:ptobechi@outlook.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"</a>
+- <p>📫 How to reach me:
+  <a href="mailto:ptobechi@outlook.com">
+  <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>p>
 - ⚡ Fun fact: ^_^
 
 <details>
@@ -47,10 +50,10 @@ My Github Stats
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational-E44C30?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VanillaJS-informational-E44C30?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational-E44C30?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-Ubuntu-informational-E44C30?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
 
 
