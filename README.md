@@ -8,12 +8,20 @@ I like to tinker with stuffs and reimagine current solutions. **ptobechi/ptobech
 - 🌱 My areas of interest are Blockchain, System programming, Web Development ...
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about PHP, Javascript & Chess after that come let's talk soccer
-- 📫 How to reach me: ptobechi@outlook.com
+- 📫 How to reach me: <a href="mailto:ptobechi@outlook.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"</a>
 - ⚡ Fun fact: ^_^
 
-<!-- https://shields.io -->
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-### &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptobechi&layout=compact&theme=algolia)](https://github.com/ptobechi/ptobechi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptobechi&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptobechi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptobechi&theme=dracula)
+
+</details>
+</p>
 
 ![Rover's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptobechi&hide=issues&show_icons=true&theme=algolia)
