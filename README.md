@@ -1,10 +1,9 @@
 ![Views](https://komarev.com/ghpvc/?username=ptobechi&style=for-the-badge&color=0e75b6)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=I+write+code+for+a+living;A+Statement+At+A+Time)](https://git.io/typing-svg)
-
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Tobechukwu Paschal, I’m  a Software Engineer
+My name is Tobechukwu Paschal, I’m  a Software Engineer.
 - 🌱 My areas of interest are Blockchain and System Engineering
 - 👯 I’m looking to collaborate on **Open Source Project**
 
