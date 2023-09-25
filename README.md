@@ -68,12 +68,13 @@ My name is Tobechukwu Paschal, I’m  a Software Engineer.
 
 
 <details>
-  <summary>Quelques statistiques ...</summary><br/>
+  <summary>Some Statistics ...</summary><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C224%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-374-blue)
+![Profile Views]([http://img.shields.io/badge/Profile%20Views-374-blue](https://komarev.com/ghpvc/?username=ptobechi&style=for-the-badge&color=0e75b6))
+
 
 **🐱 My GitHub Data** 
 
