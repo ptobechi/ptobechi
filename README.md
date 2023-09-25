@@ -23,7 +23,7 @@ My name is Tobechukwu Paschal, I’m  a Software Engineer.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ptobechi&theme=white&hide_border=true" width="400">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=avenir+nextt&pause=1000&color=6362F7FF&width=435&lines=Code%2C+as+clean+as+snow;Coding%2C+the+art+of+logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=avenir+nextt&pause=1000&color=838383FF&width=435&lines=Code%2C+as+clean+as+snow;Coding%2C+the+art+of+logic)](https://git.io/typing-svg)
 ----
 #### Tools and Technologies
 
