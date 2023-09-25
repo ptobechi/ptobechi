@@ -18,30 +18,29 @@ My name is Tobechukwu Paschal, I’m  a Software Engineer.
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 
-<!--<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
+----
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptobechi&theme=dracula) 
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
+![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
+![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
+![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptobechi&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptobechi&theme=dracula)
+**Senior Data & Platform Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
+<br/>
+**Digital Artist & Creator** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
 
-</details>-->
-<!-- Languages:
-![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-
-#### WEB FRAMEWORKS
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
--->
+----
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
