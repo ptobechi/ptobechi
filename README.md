@@ -21,7 +21,7 @@ My name is Tobechukwu, I’m  a Software Engineer.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ptobechi&show_icons=true&theme=white" width="400">
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ptobechi&layout=compact&hide_border=true&bg_color=white&langs_count=6" width="300">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ptobechi&theme=white&hide_border=true" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptobechi&theme=white&hide_border=true" width="400">
 </p>
 
 ----
