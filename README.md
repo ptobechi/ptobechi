@@ -42,7 +42,8 @@ My name is Tobechukwu, I’m  a Software Engineer.
 <!--![Profile Views](http://img.shields.io/badge/Profile%20Views-374-blue)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=ptobechi&style=for-the-badge&color=0e75b6)
 
-**🐱 My GitHub Data** 
+<img src="https://wakatime.com/badge/user/c314cdec-7775-4fda-867f-21176c2cbf5d.svg" alt="wakatime" />
 
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ptobechi&layout=compact)](https://github.com/ptobechi/github-readme-stats)
 
 </details>
