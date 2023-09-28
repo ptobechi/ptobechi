@@ -44,6 +44,6 @@ My name is Tobechukwu, I’m  a Software Engineer.
 
 <img src="https://wakatime.com/badge/user/c314cdec-7775-4fda-867f-21176c2cbf5d.svg" alt="wakatime" />
 
-[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ptobechi&layout=compact)](https://github.com/ptobechi/github-readme-stats)
+[![Tobechukwu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ptobechi&layout=compact)](https://github.com/ptobechi/github-readme-stats)
 
 </details>
