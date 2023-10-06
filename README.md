@@ -32,6 +32,7 @@ My name is Tobechukwu, I’m  a Software Engineer.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Valgrind](https://img.shields.io/badge/Valgrind-316192?style=for-the-badge&logo=valgrind&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MoongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=moongodb&logoColor=white)&nbsp;
 <be></br>
